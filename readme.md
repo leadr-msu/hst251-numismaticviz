@@ -1,4 +1,4 @@
-# Numismatic Data in Raw & Palladio
+# Numismatic Data in RAWGraphs & Palladio
 
 ## Numismatic Dataset
 This is a dataset from MANTIS that includes the Roman, Byzantine, and Islamic coins from between 400 and 500 CE. We've made a few minor changes:
@@ -129,4 +129,4 @@ You can save particular visualizations by clicking on the `Export` button.
 - Download a dataset from [MANTIS](http://numismatics.org/search/) - it can be whatever department(s) or years you'd like, so long as it fits the scope of the class
 - Take a look at the data you've downloaded and come up with a research question
 - Use either RAWGraphs or Palladio to make one or more visualizations that answer, or at least start to answer, the research question
-- Share the vizualization(s) on the blog, along with a narrative of your process and a reflection on the strenghts and shortcomings of your data and your vizualization. What would you need in terms of information, data, tools, and/or expertise to make this better? 
+- Share the vizualization(s) on the blog, along with a narrative of your process and a reflection on the strenghts and shortcomings of your data and your vizualization. What would you need in terms of information, data, tools, and/or expertise to make this better? Use the category *Numismatic Data as Evidence Activity*.
