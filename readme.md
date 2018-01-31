@@ -12,6 +12,7 @@ This is a dataset from MANTIS that includes the Roman, Byzantine, and Islamic co
 RAWGraphs is an easy interface for experimenting with and creating visualizations. It doesn't do a great job with incorrectly formulated data, and it sometimes breaks in ways that are confusing. It also doesn't give you many great options to add the labels and keys that you want.
 
 To use or export any of the visualizations, you can scroll to the bottom and either copy and paste the SVG Code embed into a website, or use the 'download' option on the left.
+
 ----
 - Upload the numismatic data file to [RAWGraphs](http://app.rawgraphs.io/)
 
