@@ -123,3 +123,10 @@ You can save particular visualizations by clicking on the `Export` button.
 - Here we can see a number of fields, including an image box, that we can populate with the dataset
 - For the `Image URL`, select either `Thumbnail_obv` or `Thumbnail_rev`
 - The rest of the decisons are up to you - what information do you think is best to show here?
+
+## Homework
+
+- Download a dataset from [MANTIS](http://numismatics.org/search/) - it can be whatever department(s) or years you'd like, so long as it fits the scope of the class
+- Take a look at the data you've downloaded and come up with a research question
+- Use either RAWGraphs or Palladio to make one or more visualizations that answer, or at least start to answer, the research question
+- Share the vizualization(s) on the blog, along with a narrative of your process and a reflection on the strenghts and shortcomings of your data and your vizualization. What would you need in terms of information, data, tools, and/or expertise to make this better? 
