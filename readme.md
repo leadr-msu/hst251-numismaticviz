@@ -6,7 +6,7 @@ This is a dataset from MANTIS that includes the Roman, Byzantine, and Islamic co
 - We've estimated a `Region-coord` lattitude/longitude based on an approxmiate capital or center of the region
 - We've removed a few columns that were mostly empty or were not of particular interest for this exercise
 
-[Download the sample dataset here](#)
+[Download the sample dataset here](https://github.com/leadr-msu/hst251-NumismaticViz/blob/master/MANTIS-RomanByzIslamic400-500-cleaned.csv)
 
 ## RAWGraphs
 RAWGraphs is an easy interface for experimenting with and creating visualizations. It doesn't do a great job with incorrectly formulated data, and it sometimes breaks in ways that are confusing. It also doesn't give you many great options to add the labels and keys that you want.
