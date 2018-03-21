@@ -131,4 +131,4 @@ You can save particular visualizations by clicking on the `Export` button.
 - Use either RAWGraphs or Palladio to make one or more visualizations that answer, or at least start to answer, the research question
 - Share the vizualization(s) on the blog, along with a narrative of your process and a reflection on the strenghts and shortcomings of your data and your vizualization. What would you need in terms of information, data, tools, and/or expertise to make this better? Use the category *Numismatic Data as Evidence Activity*.
 
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
